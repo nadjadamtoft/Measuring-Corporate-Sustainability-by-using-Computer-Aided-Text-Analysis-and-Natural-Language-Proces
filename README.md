@@ -5,15 +5,5 @@ This is the code repository destined for the paper "Measuring Corporate Sustaina
 Python code makes use of the Spacy library.
 
 
-Installation requirements: 
-
-python -m pip install --upgrade pip
-
-pip install --upgrade pip
-
-pip install -r requirements.txt
-
-pip install PyMuPDF
-
-pip-upgrade --skip-virtualenv-check
+Read the "Algorithm - Help file" for more information on installation requirements and explanations 
 
